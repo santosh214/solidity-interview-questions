@@ -12,10 +12,17 @@
      <b>Que 2 What is decentralized and distributed ?</b>
 </p>
 <p>
-     Decentralized and distributed refer to the way in which data, processes, or systems are organized
+  Ans 2.   Decentralized and distributed refer to the way in which data, processes, or systems are organized
 </p>
-        
-        
+</br>
+
+<p>
+<!--      <b>Que 2 What is decentralized and distributed ?</b> -->
+<b> Que 3 Explain the concept of consensus algorithms in blockchain? </b>
+</p>
+<p>
+ Ans 3.    Consensus algorithms are used to achieve agreement on the state of the blockchain among the network participants. Examples include Proof of Work (PoW), Proof of Stake (PoS), and Practical Byzantine Fault Tolerance (PBFT).
+</p>        
         
 # solidity-interview-questions
 solidity interview questions
